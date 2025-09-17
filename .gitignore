@@ -1,0 +1,50 @@
+# ======================
+# Ignorer les poids (on les ajoutera ensuite avec Git LFS)
+models_weights/
+
+# ======================
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ======================
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# ======================
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ======================
+# Logs et fichiers temporaires
+*.log
+*.out
+*.tmp
+
+# ======================
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# ======================
+# Archives
+*.zip
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# ======================
+# Résultats générés (si tu en as)
+results/
