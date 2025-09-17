@@ -77,8 +77,6 @@ cd -c-pred-skin-lesion-classification
 You can create a `.env` file to customize paths:
 ```env
 ```
-DATASET_PATH=/path/to/data
-OUTPUT_PATH=/path/to/output
 ---
 
 ## 🏗️ Project Architecture
