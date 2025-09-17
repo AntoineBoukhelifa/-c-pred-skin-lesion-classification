@@ -1,6 +1,6 @@
 # ======================
 # Ignorer les poids (on les ajoutera ensuite avec Git LFS)
-models_weights/
+#models_weights/
 
 # ======================
 # Python
