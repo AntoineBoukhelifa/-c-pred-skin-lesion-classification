@@ -63,6 +63,7 @@ The project provides:
 ```bash
 git clone https://github.com/AntoineBoukhelifa/-c-pred-skin-lesion-classification.git
 cd -c-pred-skin-lesion-classification
+```
 
 ---
 
@@ -75,6 +76,7 @@ cd -c-pred-skin-lesion-classification
 **Optional environment variables**  
 You can create a `.env` file to customize paths:
 ```env
+```
 DATASET_PATH=/path/to/data
 OUTPUT_PATH=/path/to/output
 ---
