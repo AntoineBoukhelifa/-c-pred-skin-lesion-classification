@@ -62,23 +62,24 @@ The project provides:
 **Clone the repository**
 ```bash
 git clone https://github.com/AntoineBoukhelifa/-c-pred-skin-lesion-classification.git
-cd -c-pred-skin-lesion-classification
+cd -c-pred-skin-lesion-classification```
 
 ---
 
 ## 🔧 Configuration
 
-The project uses a simple configuration with requirements and model weights.
+The project uses a straightforward configuration: dependencies are listed in `requirements.txt`, and pretrained weights are stored in `models_weights/` (managed via Git LFS).
 
 ### Files
 - **requirements.txt** → Python dependencies  
-- **models_weights/** → contains pretrained models (handled via Git LFS)  
+- **models_weights/** → pretrained model weights  
 
 ### Optional environment variables
 You can create a `.env` file to customize paths:
 ```env
 DATASET_PATH=/path/to/data
 OUTPUT_PATH=/path/to/output
+
 
 ---
 
