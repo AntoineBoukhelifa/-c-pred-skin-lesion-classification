@@ -64,6 +64,8 @@ The project provides:
 git clone https://github.com/AntoineBoukhelifa/-c-pred-skin-lesion-classification.git
 cd -c-pred-skin-lesion-classification
 
+---
+
 ## 🔧 Configuration
 
 The project uses a simple configuration with requirements and model weights.
@@ -77,6 +79,8 @@ You can create a `.env` file to customize paths:
 ```env
 DATASET_PATH=/path/to/data
 OUTPUT_PATH=/path/to/output
+
+---
 
 ## 🏗️ Project Architecture
 
