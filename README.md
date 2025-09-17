@@ -80,7 +80,7 @@ You can create a `.env` file to customize paths:
 ---
 
 ## 🏗️ Project Architecture
-
+```text
 cpred/
 ├── notebooks/                  # Jupyter notebooks
 │   ├── data_processing.ipynb   # Data preprocessing and cleaning
@@ -98,4 +98,5 @@ cpred/
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 
+```
 
